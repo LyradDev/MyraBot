@@ -1,0 +1,14 @@
+{
+  "name": "discord-bot-myrabot",
+  "version": "1.0.0",
+  "author": "Lyrad",
+  "main": "app.js",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "fs": "0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyradDev/MyraBot.git"  
+  }
+}
